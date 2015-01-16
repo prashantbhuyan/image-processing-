@@ -1,0 +1,366 @@
+
+Raw Image # 1 W/O Threshold:
+
+
+[[ 0.  0.  0. ...,  0.  0.  0.]
+ [ 0.  0.  0. ...,  0.  0.  0.]
+ [ 0.  0.  0. ...,  0.  0.  0.]
+ ..., 
+ [ 0.  0.  0. ...,  0.  0.  0.]
+ [ 0.  0.  0. ...,  0.  0.  0.]
+ [ 0.  0.  0. ...,  0.  0.  0.]] 
+
+
+Binary Conversion of Image # 1 W/ Threshold:
+
+
+[[False False False ..., False False False]
+ [False False False ..., False False False]
+ [False False False ..., False False False]
+ ..., 
+ [False False False ..., False False False]
+ [False False False ..., False False False]
+ [False False False ..., False False False]] 
+
+
+There are 3 objects in image # 1 above. 
+
+
+Here are Objects (Slices) for image # 1 above. 
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+The Coordinates for the Center of Mass for each of the 3 objects in image # 1 above are: 
+[(139.66560835007627, 460.64732659791849), (203.55766891750199, 212.49729263414261), (337.41725302044722, 264.40996157891948)]
+********BREAK******** 
+
+
+Raw Image # 2 W/O Threshold:
+
+
+[[[ 44.  44.  44.]
+  [ 44.  44.  44.]
+  [ 44.  44.  44.]
+  ..., 
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]]
+
+ [[ 44.  44.  44.]
+  [ 44.  44.  44.]
+  [ 44.  44.  44.]
+  ..., 
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]]
+
+ [[ 44.  44.  44.]
+  [ 44.  44.  44.]
+  [ 44.  44.  44.]
+  ..., 
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]
+  [ 40.  40.  40.]]
+
+ ..., 
+ [[ 46.  46.  46.]
+  [ 46.  46.  46.]
+  [ 46.  46.  46.]
+  ..., 
+  [ 49.  49.  49.]
+  [ 50.  50.  50.]
+  [ 50.  50.  50.]]
+
+ [[ 46.  46.  46.]
+  [ 46.  46.  46.]
+  [ 46.  46.  46.]
+  ..., 
+  [ 49.  49.  49.]
+  [ 50.  50.  50.]
+  [ 50.  50.  50.]]
+
+ [[ 46.  46.  46.]
+  [ 46.  46.  46.]
+  [ 46.  46.  46.]
+  ..., 
+  [ 49.  49.  49.]
+  [ 50.  50.  50.]
+  [ 50.  50.  50.]]] 
+
+
+Binary Conversion of Image # 2 W/ Threshold:
+
+
+[[[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ ..., 
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]
+
+ [[False False False]
+  [False False False]
+  [False False False]
+  ..., 
+  [False False False]
+  [False False False]
+  [False False False]]] 
+
+
+There are 8 objects in image # 2 above. 
+
+
+Here are Objects (Slices) for image # 2 above. 
+[[[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ ..., 
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]]
+The Coordinates for the Center of Mass for each of the 8 objects in image # 2 above are: 
+[(74.199597634708283, 508.52839876421422, 1.0), (160.01105305161141, 182.68413826777532, 1.0), (149.07672477930396, 410.77473884119894, 1.0), (312.40491737265364, 163.12116174191368, 1.0), (370.01561271235857, 418.22834852920067, 1.0), (292.9229580860802, 266.31016011897026, 1.0), (399.44180014939002, 93.887604780479705, 1.0), (437.51643213320983, 169.39281441997113, 1.0)]
+********BREAK******** 
+
+
+Raw Image # 3 W/O Threshold:
+
+
+[[[  17.   17.   17.  255.]
+  [  68.   68.   68.  255.]
+  [  51.   51.   51.  255.]
+  ..., 
+  [  85.   85.   85.  255.]
+  [  68.   68.   68.  255.]
+  [  51.   51.   51.  255.]]
+
+ [[  51.   51.   51.  255.]
+  [ 119.  119.  119.  255.]
+  [ 119.  119.  119.  255.]
+  ..., 
+  [ 170.  170.  170.  255.]
+  [ 170.  170.  170.  255.]
+  [ 153.  153.  153.  255.]]
+
+ [[  34.   34.   34.  255.]
+  [ 119.  119.  119.  255.]
+  [ 119.  119.  119.  255.]
+  ..., 
+  [ 170.  170.  170.  255.]
+  [ 170.  170.  170.  255.]
+  [ 153.  153.  153.  255.]]
+
+ ..., 
+ [[  34.   34.   34.  255.]
+  [ 119.  119.  119.  255.]
+  [ 136.  136.  136.  255.]
+  ..., 
+  [ 204.  204.  204.  255.]
+  [ 187.  187.  187.  255.]
+  [ 187.  187.  187.  255.]]
+
+ [[  17.   17.   17.  255.]
+  [ 119.  119.  119.  255.]
+  [ 119.  119.  119.  255.]
+  ..., 
+  [ 187.  187.  187.  255.]
+  [ 187.  187.  187.  255.]
+  [ 187.  187.  187.  255.]]
+
+ [[  17.   17.   17.  255.]
+  [ 102.  102.  102.  255.]
+  [ 119.  119.  119.  255.]
+  ..., 
+  [ 187.  187.  187.  255.]
+  [ 187.  187.  187.  255.]
+  [ 187.  187.  187.  255.]]] 
+
+
+Binary Conversion of Image # 3 W/ Threshold:
+
+
+[[[False False False False]
+  [False False False False]
+  [False False False False]
+  ..., 
+  [ True  True  True  True]
+  [ True  True  True  True]
+  [ True  True  True  True]]
+
+ [[False False False False]
+  [False False False False]
+  [False False False False]
+  ..., 
+  [ True  True  True  True]
+  [ True  True  True  True]
+  [ True  True  True  True]]
+
+ [[False False False False]
+  [False False False False]
+  [False False False False]
+  ..., 
+  [ True  True  True  True]
+  [ True  True  True  True]
+  [ True  True  True  True]]
+
+ ..., 
+ [[False False False False]
+  [False False False False]
+  [False False False False]
+  ..., 
+  [ True  True  True  True]
+  [ True  True  True  True]
+  [ True  True  True  True]]
+
+ [[False False False False]
+  [False False False False]
+  [False False False False]
+  ..., 
+  [ True  True  True  True]
+  [ True  True  True  True]
+  [ True  True  True  True]]
+
+ [[False False False False]
+  [False False False False]
+  [False False False False]
+  ..., 
+  [ True  True  True  True]
+  [ True  True  True  True]
+  [ True  True  True  True]]] 
+
+
+There are 18 objects in image # 3 above. 
+
+
+Here are Objects (Slices) for image # 3 above. 
+[[[ 0  0  0  0]
+  [ 0  0  0  0]
+  [ 0  0  0  0]
+  ..., 
+  [ 1  1  1  1]
+  [ 1  1  1  1]
+  [ 1  1  1  1]]
+
+ [[ 0  0  0  0]
+  [ 0  0  0  0]
+  [ 0  0  0  0]
+  ..., 
+  [ 1  1  1  1]
+  [ 1  1  1  1]
+  [ 1  1  1  1]]
+
+ [[ 0  0  0  0]
+  [ 0  0  0  0]
+  [ 0  0  0  0]
+  ..., 
+  [ 1  1  1  1]
+  [ 1  1  1  1]
+  [ 1  1  1  1]]
+
+ ..., 
+ [[ 0  0  0  0]
+  [ 0  0  0  0]
+  [ 0  0  0  0]
+  ..., 
+  [16 16 16 16]
+  [16 16 16 16]
+  [16 16 16 16]]
+
+ [[ 0  0  0  0]
+  [ 0  0  0  0]
+  [ 0  0  0  0]
+  ..., 
+  [16 16 16 16]
+  [16 16 16 16]
+  [16 16 16 16]]
+
+ [[ 0  0  0  0]
+  [ 0  0  0  0]
+  [ 0  0  0  0]
+  ..., 
+  [16 16 16 16]
+  [16 16 16 16]
+  [16 16 16 16]]]
+The Coordinates for the Center of Mass for each of the 18 objects in image # 3 above are: 
+[(94.242201325026528, 409.57415696107608, 1.6910880416188223), (82.674055753940422, 33.588364277777181, 1.7182122706137464), (52.551151580074986, 115.51446170326727, 2.1322978039635778), (328.43170260681723, 120.69025748288358, 1.6759883680247301), (106.14863575653501, 229.68841824079374, 2.1858423964892197), (97.0, 398.5, 3.0), (129.13557035862607, 323.30568997953077, 1.7735011891098833), (160.72095625635808, 232.65932858596133, 1.7876703967446592), (174.61475997133985, 357.28045139718176, 1.7780232465568029), (315.61022385882575, 320.34242608971448, 1.7908953293460548), (200.45827232796486, 377.65263543191799, 1.8469985358711567), (218.28590473881954, 9.4539449763665004, 2.1151375590837476), (318.52127050962264, 499.43117691480353, 1.741733220439827), (370.47619047619048, 224.33333333333334, 3.0), (463.2700461011072, 448.46557192954805, 1.7057606682690414), (500.29430776334016, 497.98057515994986, 1.7087922960226898), (504.91923880250636, 368.03359248085405, 1.7652587607333488), (506.97491197183098, 427.44102112676057, 2.0057218309859155)]
+********BREAK******** 
+
